@@ -790,7 +790,7 @@ a:focus {
 
 .contact_section .detail-box {
   background-image:  linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../images/bgcontactimg.jpeg);
-  background-position: bottom;
+  background-position: top;
   background-size: cover;
   color: #ffffff;
   padding: 140px 15%;
@@ -801,12 +801,12 @@ a:focus {
 .contact_section .detail-box h3 {
   font-weight: bold;
   font-size: 32px;
-  color: #fff;
+  color: #ffffff;
 }
 
 .contact_section .detail-box p {
   margin-top: 25px;
-  color: #fff;
+  color: #ffffff;
 }
 
 .info_section {
