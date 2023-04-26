@@ -1,0 +1,1 @@
+https://www.google.com/maps/place/Near+East+University+Hospital/@35.2285337,33.3172275,17z/data=!3m1!4b1!4m6!3m5!1s0x14de111145af5497:0xfded54735867829b!8m2!3d35.2285293!4d33.3198024!16s%2Fm%2F0vsjtxk
