@@ -932,7 +932,7 @@ a:focus {
 }
 
 .amb-sec {
-  background-image: url("/hosp/neuambulance.jpeg");
+  background-image: url("../hosp/neuambulance.jpeg");
   background-size: cover;
   background-position: top;
   height: 100vh;
