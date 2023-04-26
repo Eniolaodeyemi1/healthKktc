@@ -949,7 +949,7 @@ a:focus {
   left: 50%;
   transform: translateX(-50%);
   background-color: #740000;
-  padding: 15px;
+  padding: 10px;
 }
 
 /* hr {
