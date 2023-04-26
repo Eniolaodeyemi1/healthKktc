@@ -790,6 +790,8 @@ a:focus {
 
 .contact_section .detail-box {
   background-image: url(../images/bgcontactimg.jpeg);
+  background-position: bottom;
+  background-size: cover;
   color: #ffffff;
   padding: 140px 15%;
   text-align: center;
@@ -799,10 +801,12 @@ a:focus {
 .contact_section .detail-box h3 {
   font-weight: bold;
   font-size: 32px;
+  color: #000;
 }
 
 .contact_section .detail-box p {
   margin-top: 25px;
+  color: #000;
 }
 
 .info_section {
